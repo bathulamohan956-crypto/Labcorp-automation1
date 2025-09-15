@@ -1,6 +1,6 @@
 Feature: LabCorp Job Search and Application
 
-#  @smoke
+ @smoke
   Scenario: Verify Job Details and Apply Process
     Given I open the LabCorp website
     When I navigate to the Careers page
